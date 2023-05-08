@@ -19,4 +19,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="installedGames.txt" />
+    <Text Include="availableGames.txt" />
+  </ItemGroup>
 </Project>

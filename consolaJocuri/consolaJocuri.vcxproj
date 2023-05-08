@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="consolaJocuri.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="availableGames.txt" />
+    <Text Include="installedGames.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

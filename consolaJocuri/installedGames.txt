@@ -1,7 +1,8 @@
 3
-League of Legends
-23.4
-Minecraft
-11.6
+Sloth
+200.000000
+KSP
+123.000000
 CSGO
-32
+123.000000
+
